@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dice-number/static/css/main.db1c1a16.chunk.css",
+    "main.js": "/dice-number/static/js/main.fcb0b959.chunk.js",
+    "main.js.map": "/dice-number/static/js/main.fcb0b959.chunk.js.map",
+    "runtime-main.js": "/dice-number/static/js/runtime-main.d70d3473.js",
+    "runtime-main.js.map": "/dice-number/static/js/runtime-main.d70d3473.js.map",
+    "static/js/2.976911b0.chunk.js": "/dice-number/static/js/2.976911b0.chunk.js",
+    "static/js/2.976911b0.chunk.js.map": "/dice-number/static/js/2.976911b0.chunk.js.map",
+    "static/js/3.f20440f4.chunk.js": "/dice-number/static/js/3.f20440f4.chunk.js",
+    "static/js/3.f20440f4.chunk.js.map": "/dice-number/static/js/3.f20440f4.chunk.js.map",
+    "index.html": "/dice-number/index.html",
+    "static/css/main.db1c1a16.chunk.css.map": "/dice-number/static/css/main.db1c1a16.chunk.css.map",
+    "static/js/2.976911b0.chunk.js.LICENSE.txt": "/dice-number/static/js/2.976911b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d70d3473.js",
+    "static/js/2.976911b0.chunk.js",
+    "static/css/main.db1c1a16.chunk.css",
+    "static/js/main.fcb0b959.chunk.js"
+  ]
+}
